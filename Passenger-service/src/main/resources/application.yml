@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: passenger-service
+
+server:
+  port: 8089
+
+

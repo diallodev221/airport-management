@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: rentals-service
+
+server:
+  port: 8091

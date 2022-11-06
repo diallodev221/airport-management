@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: passenger-details-service
+
+
+server:
+  port: 8092
+
+
+

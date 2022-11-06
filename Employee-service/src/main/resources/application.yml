@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: employee-service
+
+  config:
+    import: optional:configserver:http://localhost:8888
+
+  profiles:
+    active: dev
+
+server:
+  port: 8083
